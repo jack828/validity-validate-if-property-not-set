@@ -1,0 +1,25 @@
+{
+  "name": "validity-validate-if-property-not-set",
+  "description": "Validate the current property if another property is not set",
+  "version": "0.0.1",
+  "main": "validator.js",
+  "files": [
+    "validator.js"
+  ],
+  "scripts": {
+    "test": "mocha test",
+    "prepublish": "yarn test"
+  },
+  "author": "Jack Burgess <jackburgess124@gmail.com>",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^6.2.0",
+    "validity": "^1.1.1",
+    "validity-required": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jack828/validity-validate-if-property-not-set.git"
+  }
+}
