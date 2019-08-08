@@ -1,7 +1,7 @@
 {
   "name": "validity-validate-if-property-not-set",
   "description": "Validate the current property if another property is not set",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "main": "validator.js",
   "files": [
     "validator.js"
